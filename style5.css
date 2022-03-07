@@ -1,0 +1,149 @@
+
+
+.container {
+   width: 1700px;
+   height: 730px;
+   margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+   background-image: url(bg-body.png);
+   background-size: 100% 100%;
+}
+
+.header {
+   width: 743px;
+   height: 100px;
+   margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+   background-image: url(bg-header.jpg);
+   background-size: 100% 100%;
+}
+
+.sitename {
+   font-size: 30px;
+   color: darkgrey;
+   margin-left: 30px;
+   vertical-align: middle;
+   line-height: 100px;
+   font-style: italic;
+}
+
+.navi {
+   width: 743px;
+   height: 30px;
+   margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+   background-image: url(bg-menu.png);
+   background-size: 100% 100%;
+   text-align: left;
+   line-height: 2px;
+}
+
+.topnav {
+   overflow: hidden;
+   margin-left: 20px;
+ }
+ 
+ .topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 15px;
+   font-size: 14px;
+   text-decoration: none;
+ }
+
+ .main {
+    width: 743px;
+    height: 500px;
+    margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .leftcontent {
+    float: left;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .rightcontent {
+   float: right;
+   width: 243px;
+   height: 500px;
+   background-color: white;
+   margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ .livefeed {
+    width: 150px;
+    height: 25px;
+    background-image: url(bg-feed.gif);
+    margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+   text-align: center;
+ }
+ 
+ .feedlist {
+    width: 230px;
+    height: 250px;
+    margin-top:0px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: lightgrey;
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+ }
+
+
+ .underline{
+   border-bottom: 1px solid black;
+   width: 100%;
+   display: block;
+}
+
+.footer {
+   width: 743px;
+   height: 100px;
+   margin-left: auto;
+   margin-right: auto;
+
+   background-image: url(bg-footer.jpg);
+}
+
+.maintitle {
+   font-size: 30px;
+   color: #C5D754;
+   margin-left: 10px;
+}
+
+.date {
+   font-size: 15px;
+   color: darkgrey;
+   margin-left: 10px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para {
+   font-size: 15px;
+   color: black;
+   margin-left: 10px;
+   text-align: justify;
+   margin-right: 10px;
+}
+
+.comment {
+   color: lightskyblue;
+   font-size: 15px;
+   margin-left: 10px;
+}
